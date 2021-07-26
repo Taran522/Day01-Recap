@@ -6,5 +6,7 @@ public class TC100 {
         System.out.println("US100");
         System.out.println("US110");
         System.out.println("US120");
+
+        // awesome code
     }
 }
